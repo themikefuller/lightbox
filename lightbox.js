@@ -9,7 +9,8 @@ function lightbox(img) {
     "top":"0",
     "left":"0",
     "z-index":"1000000",
-    "overflow":"auto"
+    "overflow":"auto",
+    "cursor":"pointer"
   };  
 
   var imgstyles = {

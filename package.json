@@ -1,9 +1,23 @@
 {
-  "name":"lightbox",
-  "version":"0.1.4",
-  "browser":"lightbox.js",
+  "name": "lightbox",
+  "version": "0.1.5",
+  "browser": "lightbox.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/themikefuller/lightbox.git"
-  }
+    "url": "git+https://github.com/themikefuller/lightbox.git"
+  },
+  "description": "JavaScript Lightbox",
+  "bugs": {
+    "url": "https://github.com/themikefuller/lightbox/issues"
+  },
+  "homepage": "https://github.com/themikefuller/lightbox#readme",
+  "main": "lightbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lightbox"
+  ],
+  "author": "Mike Fuller",
+  "license": "MIT"
 }
